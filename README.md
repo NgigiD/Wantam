@@ -24,7 +24,7 @@ Inspired by **Wamunyoro — the truthful man**. This isn’t just a token, it’
 - X (Twitter): [@_thecryptogeek_](https://x.com/_thecryptogeek_?t=FZLQhiRlZ22-icrXlbWC6A&s=09)
 
 ## 🌐 Website
-[https://ngigid.github.io/wantamcoin](https://ngigid.github.io/wantamcoin)
+[https://TheVerifiedGeek.github.io/wantamcoin](https://TheVerifiedGeek.github.io/wantamcoin)
 
 ---
 
