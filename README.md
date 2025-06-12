@@ -1,43 +1,31 @@
-# Wantam Coin 🚀 $WANTAM
+# 🚀 Wantam Coin ($WANTAM)
 
-Welcome to **Kenya’s first viral meme coin** — born from the streets, fast, raw, no apologies.  
-Inspired by the legendary **Wamunyoro — the truthful man.**
+Kenya’s first viral memecoin — not from a billionaire's tweet, but straight from the streets.  
+Inspired by **Wamunyoro — the truthful man**. This isn’t just a token, it’s a **symbol, a movement**, and a call for **good governance and accountability**.
 
----
+## 🌍 What is $WANTAM?
+- A vibe you can trade.
+- Born raw and unapologetic.
+- Not about rules — it’s about **momentum**.
 
-## 🌍 Live Website
-👉 [https://NgigiD.github.io/wantam](https://NgigiD.github.io/wantam)
+> Kenya’s first coin to go viral — because of YOU.
 
----
+## 🪙 Token Info
+- **Ticker:** `$WANTAM`
+- **Contract:** `0x4cbb18a84da700f026d9e35b9070d4562cfee760`
+- **Chain:** Binance Smart Chain (BSC)
 
-## 💎 About $WANTAM
-This isn't just a token — it's a **symbol**, a **movement**, a call for **good governance and accountability**.  
-A vibe you can trade.
+## 🛒 Buy on PancakeSwap
+[Buy $WANTAM Now](https://pancakeswap.finance/swap?outputCurrency=0x4cbb18a84da700f026d9e35b9070d4562cfee760)
 
-> Not launched by billionaires.  
-> **Launched by the people. For the people.**
-
----
-
-## 🛒 Buy Now
-[Buy $WANTAM on PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0x4cbb18a84da700f026d9e35b9070d4562cfee760)
-
----
-
-## 📱 Follow the Movement
+## 📱 Socials
 - Telegram: [@thegeekverified](https://t.me/thegeekverified)
 - TikTok: [@the.geek_drops](https://tiktok.com/@the.geek_drops)
-- Twitter: [@_thecryptogeek_](https://x.com/_thecryptogeek_?t=FZLQhiRlZ22-icrXlbWC6A&s=09)
+- X (Twitter): [@_thecryptogeek_](https://x.com/_thecryptogeek_?t=FZLQhiRlZ22-icrXlbWC6A&s=09)
+
+## 🌐 Website
+[https://ngigid.github.io/wantamcoin](https://ngigid.github.io/wantamcoin)
 
 ---
 
-## 🧠 Philosophy
-> "$WANTAM isn’t about rules. It’s about **momentum**.  
-Let’s go to the moon 🚀"
-
----
-
-## 📂 How to Contribute
-Want to support or develop $WANTAM further? Fork the repo, make your changes, and create a pull request!
-
----
+Let’s go to the moon 🚀
