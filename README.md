@@ -29,3 +29,8 @@ https://theverifiedgeek.github.io/Wantamcoin/
 ---
 
 Let’s go to the moon 🚀
+## 📂 How to Contribute
+Want to support or develop $WANTAM further? Fork the repo, make your changes, and create a pull request!
+
+---
+
