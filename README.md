@@ -1,4 +1,4 @@
-# 🚀 Wantam Coin ($WANTAM)
+use# 🚀 Wantam Coin ($WANTAM)
 
 Kenya’s first viral memecoin — not from a billionaire's tweet, but straight from the streets.  
 Inspired by **Wamunyoro — the truthful man**. This isn’t just a token, it’s a **symbol, a movement**, and a call for **good governance and accountability**.
@@ -24,7 +24,6 @@ Inspired by **Wamunyoro — the truthful man**. This isn’t just a token, it’
 - X (Twitter): [@_thecryptogeek_](https://x.com/_thecryptogeek_?t=FZLQhiRlZ22-icrXlbWC6A&s=09)
 
 ## 🌐 Website
-[(https://TheVerifiedGeek.github.io/wantamcoin)]
 https://theverifiedgeek.github.io/Wantamcoin/
 
 ---
