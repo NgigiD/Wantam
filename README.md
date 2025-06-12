@@ -6,7 +6,7 @@ Inspired by the legendary **Wamunyoro — the truthful man.**
 ---
 
 ## 🌍 Live Website
-👉 [https://NgigiD.github.io/wantam-coin](https://NgigiD.github.io/wantam-coin)
+👉 [https://NgigiD.github.io/wantam](https://NgigiD.github.io/wantam)
 
 ---
 
