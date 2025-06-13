@@ -32,5 +32,9 @@ Let’s go to the moon 🚀
 ## 📂 How to Contribute
 Want to support or develop $WANTAM further? Fork the repo, make your changes, and create a pull request!
 
+Support the devs 👇
+TRON-USDT: TMhys1L1NEC7vJEBBq5xDimuhLCS9RNSRQ
+
+
 ---
 
